@@ -53,7 +53,7 @@ Analyze Netflix Movies & TV Shows dataset to uncover **trends in content product
 - Removed duplicates and null entries.  
 - Normalized date fields and fixed labels.  
 - Handled unknown country & rating values.  
-- Final cleaned dataset: **`Netflix_CleanedData.xlsx`**  
+- Final cleaned dataset: **`Netflix_Project_Waqar_Project_1_Final_July`**  
 
 ---
 
@@ -64,7 +64,7 @@ The dashboard includes:
 - **Ratings breakdown**  
 - **Movies vs TV Shows split**  
 
-📄 **View Dashboard PDF:** [DASHBOARD_NETFLIX_PROJECT_1_WAQAR_JULY_FINAL.pdf](./DASHBOARD_NETFLIX_PROJECT_1_WAQAR_JULY_FINAL.pdf)
+📄 **View Dashboard PDF:** [DASHBOARD_NETFLIX_PROJECT_1_WAQAR_JULY_FINAL.pdf](./Dashboard_final_sheet.pdf)
 
 ---
 
